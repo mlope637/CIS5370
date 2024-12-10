@@ -33,7 +33,7 @@ pip3 install requests
 
 Installation
 1. Clone the repository using the following code:
-git clone https://github.com/mlope637/CIS5370/password_strength_checker_and_generator.git
+git clone https://github.com/mlope637/CIS5370/blob/main/password_strength_checker_and_generator.py
 
 2. Navigate to the directory of the project:
 cd password_strength_checker_and_generator
